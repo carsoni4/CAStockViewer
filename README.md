@@ -1,2 +1,2 @@
 # CAStockViewer
-Projects we are working on to familiarize ourselves with python
+Project I am working on to familiarize myself with python
